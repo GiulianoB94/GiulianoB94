@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giuliano</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giulianob94" alt="giulianob94" /></a> </p>
-
-- 📫 How to reach me: 
+ 📫 How to reach me: 
 - Email:**Giulianob94@Hotmail.com**
 - LinkedIn: **https://www.linkedin.com/in/giulianobondi**
 
