@@ -8,8 +8,8 @@
 <h3 align="left">My projects:</h3>
 <p align="left">
 <h2 align="left">Countries</h3>
-<a href="https://github.com/GiulianoB94/Countries" target="blank"><img align="center" src="https://raw.githubusercontent.com/GiulianoB94/GiulianoB94/main/P%C3%BArpura%20Rosa%20Azul%20Moderno%20Trabajar%20desde%20Casa%20Presentaci%C3%B3n.png" alt="giulianob94" height="300" width="400" /></a>
- <a href="https://github.com/GiulianoB94/VideogamesPI" target="blank"><img align="center" src="https://raw.githubusercontent.com/GiulianoB94/GiulianoB94/main/Untitled.png" alt="giulianob94" height="300" width="400" /></a>
+<a href="https://github.com/GiulianoB94/Countries" target="blank"><img align="center" src="https://raw.githubusercontent.com/GiulianoB94/GiulianoB94/main/P%C3%BArpura%20Rosa%20Azul%20Moderno%20Trabajar%20desde%20Casa%20Presentaci%C3%B3n.png" alt="giulianob94" height="400" width="400" /></a>
+ <a href="https://github.com/GiulianoB94/VideogamesPI" target="blank"><img align="center" src="https://raw.githubusercontent.com/GiulianoB94/GiulianoB94/main/Untitled.png" alt="giulianob94" height="400" width="400" /></a>
 </p>
 
 
