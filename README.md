@@ -5,6 +5,14 @@
 - Email:**Giulianob94@Hotmail.com**
 - LinkedIn: **https://www.linkedin.com/in/giulianobondi**
 
+<h3 align="left">My projects:</h3>
+<p align="left">
+<a href="https://github.com/GiulianoB94/Countries" target="blank"><img align="center" src="https://raw.githubusercontent.com/GiulianoB94/GiulianoB94/main/P%C3%BArpura%20Rosa%20Azul%20Moderno%20Trabajar%20desde%20Casa%20Presentaci%C3%B3n.png" alt="giulianob94" height="30" width="40" /></a>
+</p>
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/giulianob94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giulianob94" height="30" width="40" /></a>
