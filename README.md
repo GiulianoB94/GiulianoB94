@@ -8,7 +8,7 @@
 <h3 align="left">My projects:</h3>
 <p align="left">
 
-<h2 align="left">MOBARQs</h2>
+<h2 align="left">MOBARQ</h2>
 <a href="
 " target="blank"><img align="center" src="https://raw.githubusercontent.com/GiulianoB94/GiulianoB94/main/Mobarq.png" alt="giulianob94" height="200" width="400" /></a>
 
@@ -17,7 +17,7 @@
 <h2 align="left">Videogames</h2>
  <a href="https://github.com/GiulianoB94/VideogamesPI" target="blank"><img align="center" src="https://raw.githubusercontent.com/GiulianoB94/GiulianoB94/main/Untitled.png" alt="giulianob94" height="200" width="400" /></a>
  
- <h2 align="left">Fnder</h2>
+ <h2 align="left">Finder</h2>
  <a href="https://finder-app-omega.vercel.app/" target="blank"><img align="center" src="https://media-exp2.licdn.com/dms/image/C4D2DAQH_-xrWx-S3zw/profile-treasury-image-shrink_800_800/0/1655957247227?e=1656594000&v=beta&t=2X8b-IOjOmC5E7tvi2xjrPwPTz2LIwDp61K0WcCc6LQ" alt="giulianob94" height="200" width="400" /></a>
 </p>
 
